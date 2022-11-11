@@ -13,7 +13,7 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
-    f = "ADSDSDSDSDSD"
+    f = "ADSDSDSDSD"
 
     n = [2,6]
     # f = f.replace('DS','spam',1)
